@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-dreamer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Beautiful Dreamer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-dreamer/) |
+| **Get License** | [Get a Licensing Quote for Beautiful Dreamer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-dreamer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wake up the stars just to watch you shine
+> I've been waiting all night for your hand in mine
+> Every breath you take is a song I have known
+> In the quiet of the dark, we are not alone
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
