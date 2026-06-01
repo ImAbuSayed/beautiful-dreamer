@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-dreamer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Beautiful Dreamer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-dreamer/) |
+| **Get License** | [Music Rights & Licensing for Beautiful Dreamer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-dreamer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `88972505dea9b38a93af20d825b03aaef4fd790cec434e19eef7f5b2f299255b` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
